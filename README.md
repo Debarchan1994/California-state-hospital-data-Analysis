@@ -5,6 +5,8 @@ website https://catalog.data.gov/dataset/methicillin-resistant-staphylococcus-au
 The data files uploaded here are cdph_mrsa_datadictionary_2021.xlsx, cdph_mrsa_bsi_odp_2021.csv, cdph_mrsa_datadictionary_2022.csv, mrsa_bsi_odp_2022.csv. The file
 cdph_mrsa_datadictionary_2021.xlsx and cdph_mrsa_datadictionary_2022.csv contains the explanation of all columns in the actual data set for 2012 that is cdph_mrsa_bsi_odp_2021.csv and 2022 that is mrsa_bsi_odp_2022.csv respectively. 
 
+The jupyter notebook file Python_Data_Analysis_Medica_data.ipynb contains all the corresponding codes for the entire data processing and transformation process and its corresponding visualizations.
+
 These data set files were concatenated to get the data of 2021 and 2022 under one pandas data frame
 
 The entire analysis is done using Python and the libraries used are pandas, numpy, plotly.express, and os. 
